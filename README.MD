@@ -1,4 +1,4 @@
-# o que levar
+# o que levar / "trabalho de curso"
 
 1. Cerveja
 
