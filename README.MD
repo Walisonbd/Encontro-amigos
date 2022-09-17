@@ -1,10 +1,10 @@
 # o que levar
 
-1.
+1. Cerveja
 
-2.
+2. Carne
 
-3.
+3. Bebidas Quentes
 
-4.
+4. Pãozinho
 
