@@ -1,3 +1,5 @@
+Obs: Trabalho de criação de repositório para curso de Database Experience
+
 # encontro dos amigos bombeiros em dezembro 2022 :ambulance:
 
 1. Walison
